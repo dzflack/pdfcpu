@@ -30,12 +30,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/validate"
+	"github.com/dzflack/pdfcpu/pkg/api"
+	"github.com/dzflack/pdfcpu/pkg/cli"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/model"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/types"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/validate"
 	"github.com/pkg/errors"
 )
 

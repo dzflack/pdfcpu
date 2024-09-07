@@ -21,9 +21,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/dzflack/pdfcpu/pkg/api"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/model"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/types"
 )
 
 func listBoxes(t *testing.T, fileName string, pb *model.PageBoundaries) ([]string, error) {

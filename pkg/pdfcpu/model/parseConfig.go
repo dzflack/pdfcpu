@@ -23,7 +23,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 	"gopkg.in/yaml.v2"
 )

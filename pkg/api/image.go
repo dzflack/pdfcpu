@@ -19,8 +19,8 @@ package api
 import (
 	"io"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/model"
 	"github.com/pkg/errors"
 )
 

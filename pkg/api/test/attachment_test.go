@@ -24,8 +24,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/dzflack/pdfcpu/pkg/api"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/model"
 )
 
 func prepareForAttachmentTest(t *testing.T) error {

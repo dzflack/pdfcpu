@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/dzflack/pdfcpu/pkg/api"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/model"
 )
 
 func TestPageLayout(t *testing.T) {

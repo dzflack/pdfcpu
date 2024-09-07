@@ -20,8 +20,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/dzflack/pdfcpu/pkg/log"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

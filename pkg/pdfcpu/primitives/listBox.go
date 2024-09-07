@@ -22,11 +22,11 @@ import (
 	"io"
 	"unicode/utf8"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/pdfcpu/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/dzflack/pdfcpu/pkg/font"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/color"
+	pdffont "github.com/dzflack/pdfcpu/pkg/pdfcpu/font"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/model"
+	"github.com/dzflack/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 
