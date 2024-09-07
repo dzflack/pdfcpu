@@ -244,7 +244,7 @@ func WriteImageToDisk(outDir, fileName string) func(model.Image, bool, int) erro
 		if img.Thumb {
 			qual = "thumb"
 		}
-		f := fmt.Sprintf(s+"_%s.%s", fileName, img.PageNr, qual, img.FileType)
+		f := fmt.Sprintf(s+"_%d_%s.%s", fileName, img.ObjNr, img.PageNr, qual, img.FileType)
 		// if singleImgPerPage {
 		// 	if img.thumb {
 		// 		s += "_" + qual
